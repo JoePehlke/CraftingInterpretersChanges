@@ -100,7 +100,7 @@ class Scanner {
                     break;
                  }
              }
-             if(!isAtEnd()) advance();
+             advance();
           } 
                     
         }
